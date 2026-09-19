@@ -18,8 +18,9 @@ if "messages" not in st.session_state:
 
 for message in st.session_state.messages:
     role = message["role"]
+
     content = message["content"]
-    st.chat_message(role).markdown(content)
+    st.chat_message(role).markdown (content)
 
 
 query = st.chat_input("Ask anything ?")
