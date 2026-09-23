@@ -5,3 +5,4 @@ langchain-anthropic
 langchain-openai
 langchain-google-genai
 streamlit
+langchain.agent 
