@@ -5,3 +5,16 @@ langchain-anthropic
 langchain-openai
 langchain-google-genai
 streamlit
+<<<<<<< HEAD
+langchain.agent 
+langchain-community
+langgraph
+pypdf
+beautifulsoup4
+wikipedia
+langchain-text-splitters
+langchain-chroma
+pydantic
+=======
+langchain.agent 
+>>>>>>> 324097b14f461e1bc784c697273e794fcefb7e9d
